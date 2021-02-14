@@ -36,4 +36,4 @@ BGtool 以当时的仓库原样放出，最新的版本和 v1.2 一致。
 
 具体操作详见[这里](https://gearkey.vvnote.org/index.php/post-17.html)。
 
-![](https://disk.vvnote.org/github/baidu_input_skins/1.png)
+![](https://disk.vvnote.org/github/baidu_input_skins/3.png)
