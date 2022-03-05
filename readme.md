@@ -24,7 +24,7 @@ BGtool 以当时的仓库原样放出，最新的版本和 v1.2 一致。
 
 从黑瓷到白铁都属于瓷系列，统一版本号，具体操作详见[这里](https://gearkey.vvnote.org/index.php/post-18.html)，关于[五韵](https://gearkey.vvnote.org/index.php/post-21.html)。
 
-![](https://disk.vvnote.org/github/baidu_input_skins/2.png)
+![2.png](https://s2.loli.net/2022/03/05/JRoXkPE1t7TQulz.png)
 
 ## BGtool 说明
 
@@ -36,4 +36,4 @@ BGtool 以当时的仓库原样放出，最新的版本和 v1.2 一致。
 
 具体操作详见[这里](https://gearkey.vvnote.org/index.php/post-17.html)。
 
-![](https://disk.vvnote.org/github/baidu_input_skins/3.png)
+![3.png](https://s2.loli.net/2022/03/05/Qih3sR8T7XKwjcL.png)
